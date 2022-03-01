@@ -1,0 +1,5 @@
+server:
+  port: 80
+
+cook:
+  special: Fried Salamander
